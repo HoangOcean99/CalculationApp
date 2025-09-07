@@ -12,8 +12,8 @@
 
 ## 📂 Cấu trúc thư mục
 project/
-├── bin/view
-└── src/
++ ├── bin/view
++ └── src/
 
 ---
 
